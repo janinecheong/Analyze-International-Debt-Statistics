@@ -1,4 +1,4 @@
-# Analyze-International-Debt-Statistics
+# Analyze International Debt Statistics using SQL
 
 The dataset in this project contains information about the amount of debt (in USD) owed by developing countries across several categories. The international debt data collected by The World Bank was analyzed by writing SQL queries that answers interesting questions such as:
  - What is the total amount of debt that is owed by the countries listed in the dataset?
